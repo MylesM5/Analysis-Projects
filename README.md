@@ -1,4 +1,4 @@
-# Analysis-Projects
+# Data-Projects
 
   This repository will serve as a place for my recent analysis projects. Also, depending on the subject I will include some
 in-progress or research type notebooks, as I don't really want to upload something incomplete, but have to deal with the
